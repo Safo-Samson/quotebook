@@ -2,5 +2,5 @@ Strength through struggle
 <<<<<<< HEAD
 live long and prosper
 =======
-/nConflict in personal branch
+live long and prosper
 >>>>>>> personal_quotes
