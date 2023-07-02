@@ -1,2 +1,6 @@
 Strength through struggle
+<<<<<<< HEAD
 live long and prosper
+=======
+/nConflict in personal branch
+>>>>>>> personal_quotes
